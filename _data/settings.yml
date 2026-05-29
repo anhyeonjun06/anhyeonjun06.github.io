@@ -21,12 +21,12 @@ header:
 ### Social
 social:
   - title: "instagram"
-    icon: "fab fa-twitter"
-    url: "https://www.instagram.com/"
+    icon: "instagram"
+    url: "https://instagram.com"
 
-  - title: "Dribbble"
-    icon: "fab fa-dribbble"
-    url: "http://dribbble.com"
+  - title: "Discord"
+    icon: "Discord"
+    url: "https;//discord.com"
 
   - title: "Behance"
     icon: "fab fa-behance"
