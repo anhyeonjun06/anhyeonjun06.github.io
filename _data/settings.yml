@@ -20,9 +20,9 @@ header:
 
 ### Social
 social:
-  - title: "Twitter"
+  - title: "instagram"
     icon: "fab fa-twitter"
-    url: "http://twitter.com"
+    url: "https://www.instagram.com/"
 
   - title: "Dribbble"
     icon: "fab fa-dribbble"
@@ -41,14 +41,14 @@ footer:
 portfolio:
   layout: "list" # select works layout options: "Grid" or "List"
   filters:
-    - name: "UI UX Design"
-      slug: "ui-ux-design"
+    # - name: "UI UX Design"
+    #   slug: "ui-ux-design"
 
-    - name: "Photography"
-      slug: "photography"
+    # - name: "Photography"
+    #   slug: "photography"
 
     - name: "Development"
       slug: "development"
 
-    - name: "Branding"
-      slug: "branding"
+    # - name: "Branding"
+    #   slug: "branding"
