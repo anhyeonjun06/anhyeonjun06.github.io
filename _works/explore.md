@@ -1,21 +1,21 @@
 ---
 # preview details
 layout: works-single
-title: Explore
+title: Ransomware Dev
 category: Development
 category_slug: development
 image: assets/img/works/work7.jpg
-short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+short_description: Redstar 3.0 in Ransomware Attack
 
 # full details
 live_preview: https://bslthemes.com
 full_image: assets/img/works/single1.jpg
 info:
   - label: Year
-    value: 2022
+    value: 2026
 
   - label: Technology
-    value: Development, JS
+    value: Development, Golang, Python
 
 description1:
   show: yes
