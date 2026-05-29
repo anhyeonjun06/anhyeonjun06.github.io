@@ -71,32 +71,32 @@ skills:
   column1:
     items:
       - label: "C" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: ""
         value: "40" #0-100 progress in %
 
       - label: "Python" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: ""
         value: "60" #0-100 progress in %
 
   column2:
     items:
       - label: "Go" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: ""
         value: "20" #0-100 progress in %
 
       - label: "Linux" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: ""
         value: "80" #0-100 progress in %
 
   column3:
     items:
-      - label: "X" #0-10 progress in dots
+      - label: "Network" #0-10 progress in dots
         text: ""
-        value: "0" #0-100 progress in %
+        value: "80" #0-100 progress in %
 
-      - label: "X" #0-10 progress in dots
+      - label: "Reversing" #0-10 progress in dots
         text: ""
-        value: "0" #0-100 progress in %
+        value: "10" #0-100 progress in %
 
 ### Resume [ resume ]
 resume:
